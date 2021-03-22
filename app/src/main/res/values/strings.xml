@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="help">Help</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="location">location</string>
+    <string name="unable_to_fetch_city_try_again">Unable to get city, Please try again</string>
+    <string name="pick_city">Pick City</string>
+    <string name="mark_location">Mark Location</string>
+    <string name="unable_to_get_data">Unable to get data</string>
+    <string name="max_temp">Max %1$s\u2103 </string>
+    <string name="min_temp">| Min %1$s\u2103</string>
+    <string name="feels_like">Feels like %1$s\u2103</string>
+    <string name="humidity_value">%1$s%%</string>
+    <string name="wind_speed_value">%1$s m/s</string>
+    <string name="temp">%1$s\u2103</string>
+    <string name="humidity">Humidity</string>
+    <string name="weather">Weather</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="mark_a_city">Mark a City</string>
+    <string name="cities">Cities</string>
+    <string name="add_option_to_mark_location">Tap on the \'Add Location\' FAB Icon in bottom right corner of the Screen to Bookmark a City</string>
 </resources>
